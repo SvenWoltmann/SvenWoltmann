@@ -8,7 +8,14 @@ I share my knowledge about Java, architecture, algorithms, and data structures i
 
 [<img src="/img/happycoders_blue_480x65.png" alt="HappyCoders logo" style="width: 240px; max-width: 100%;">](https://www.happycoders.eu/)
 
-[<img src="/img/JavaLand_2025-Banner-512x256px-I_m_a_Speaker.jpg" alt="JavaLand 2025 - I'm a Speaker" style="width: 512px; max-width: 100%;">](https://meine.doag.org/events/javaland/2024/agenda/#eventDay.1712613600)
+
+## <br>Freelance Services
+
+Interested in booking me as a freelancer?
+
+Drop me an e-mail at sven@happycoders.eu, or contact me via [this form](https://www.happycoders.eu/contact/). 
+
+Here is my profile: https://www.happycoders.eu/about-sven-woltmann/ (or download it [as a PDF](https://www.happycoders.eu/wp-content/uploads/2025/02/sven_woltmann_cv_english_2025-02-11.pdf))
 
 
 ## <br>Java Versions PDF Cheat Sheet
