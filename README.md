@@ -1,21 +1,38 @@
 ## Hi there 👋
 
-I am a passionate Java programmer focusing on scalable enterprise applications, optimization of algorithms, clean code, and clean architecture.
+I'm Sven Woltmann — I help Java developers and teams stay on the cutting edge of modern Java.
 
-I work as an independent developer, trainer, speaker, and course instructor. 
+I create in-depth content on the latest Java versions and features, and I offer hands-on Java trainings for companies that want to level up their developers.
 
-I share my knowledge about Java, architecture, algorithms, and data structures in [videos](https://youtube.com/@HappyCoders), my [newsletter](https://www.happycoders.eu/newsletter/), and my blog [HappyCoders.eu](https://www.happycoders.eu/).
+You'll find my tutorials on Java, architecture, algorithms, and data structures in my [videos](https://youtube.com/@HappyCoders), my [newsletter](https://www.happycoders.eu/newsletter/), and my blog [HappyCoders.eu](https://www.happycoders.eu/).
 
 [<img src="/img/happycoders_blue_480x65.png" alt="HappyCoders logo" style="width: 240px; max-width: 100%;">](https://www.happycoders.eu/)
 
 
-## <br>Freelance Services
+## <br>🎓 Java Trainings
 
-Interested in booking me as a freelancer?
+Want to bring your team up to speed on **modern Java**? I run practical, hands-on trainings on Java 17, 21 & 25, Java Streams, Java Performance, and Java Concurrency with virtual threads and structured concurrency.
 
-Drop me an e-mail at sven@happycoders.eu, or contact me via [this form](https://www.happycoders.eu/contact/). 
+[<img src="/img/sven-woltmann-trainer-480x320.jpg" alt="Sven Woltmann – Java trainer" style="width: 240px; max-width: 100%;">](https://www.happycoders.eu/java-trainings/)
 
-Here is my profile: https://www.happycoders.eu/about-sven-woltmann/ (or download it [as a PDF](https://www.happycoders.eu/wp-content/uploads/2025/02/sven_woltmann_cv_english_2025-02-11.pdf))
+* **Up-to-date content** — the newest Java features, explained by an author who follows every release closely.
+* **Hands-on and practical** — your developers write code, not just watch slides.
+* **Tailored to your team** — from Java language features to performance and concurrency.
+
+**What participants say:**
+
+> “A deep, thorough overview of all the relevant Java features since Java 8 — and the chance to try out every one of them yourself.”
+
+> “A complex topic broken down brilliantly (virtual threads).”
+
+> “If you know Java, you can follow this trainer with ease. The exercises are well thought out and focused on the essentials.”
+
+> “Pace and depth: top. The mix of theory and practice was very pleasant.”
+
+> “Content and presentation almost flawless. What impressed me was how confidently you answered questions along the way.”
+
+👉 [Java Trainings (English)](https://www.happycoders.eu/java-trainings/)
+👉 [Java-Schulungen (Deutsch)](https://www.happycoders.eu/de/java-schulungen/)
 
 
 ## <br>Java Versions PDF Cheat Sheet
