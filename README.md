@@ -2,7 +2,7 @@
 
 I'm Sven Woltmann — I help Java developers and teams stay on the cutting edge of modern Java.
 
-I create in-depth content on the latest Java versions and features, and I offer hands-on Java trainings for companies that want to level up their developers.
+I create in-depth content on the latest Java versions and features, and I run hands-on Java trainings that help teams actually use them in production.
 
 You'll find my tutorials on Java, architecture, algorithms, and data structures in my [videos](https://youtube.com/@HappyCoders), my [newsletter](https://www.happycoders.eu/newsletter/), and my blog [HappyCoders.eu](https://www.happycoders.eu/).
 
@@ -11,13 +11,13 @@ You'll find my tutorials on Java, architecture, algorithms, and data structures 
 
 ## <br>🎓 Java Trainings
 
-Want to bring your team up to speed on **modern Java**? I run practical, hands-on trainings on Java 17, 21 & 25, Java Streams, Java Performance, and Java Concurrency with virtual threads and structured concurrency.
+Java has evolved massively since Java 8 — but is your team already using the new features? I run hands-on trainings on modern Java: Java 11, 17, 21 & 25, Java Streams, Java Performance, and Java Concurrency with virtual threads and structured concurrency.
 
 [<img src="/img/sven-woltmann-trainer-480x320.jpg" alt="Sven Woltmann – Java trainer" style="width: 240px; max-width: 100%;">](https://www.happycoders.eu/java-trainings/)
 
-* **Up-to-date content** — the newest Java features, explained by an author who follows every release closely.
-* **Hands-on and practical** — your developers write code, not just watch slides.
-* **Tailored to your team** — from Java language features to performance and concurrency.
+* **The latest language features** — records, sealed classes, pattern matching, virtual threads, and when each one actually helps.
+* **Hands-on from the first session** — your developers write and run code themselves, not just watch slides.
+* **Focused on your stack** — we cover the Java versions and topics your projects really use.
 
 **What participants say:**
 
