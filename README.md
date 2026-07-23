@@ -6,14 +6,14 @@ I create in-depth content on the latest Java versions and features, and I run ha
 
 You'll find my tutorials on Java, architecture, algorithms, and data structures in my [videos](https://youtube.com/@HappyCoders), my [newsletter](https://www.happycoders.eu/newsletter/), and my blog [HappyCoders.eu](https://www.happycoders.eu/).
 
-[<img src="/img/happycoders_blue_480x65.png" alt="HappyCoders logo" style="width: 240px; max-width: 100%;">](https://www.happycoders.eu/)
+[<img src="/img/HappyCoders_Logo_2026_blue_black_488x72.png" alt="HappyCoders logo" style="width: 244px; max-width: 100%;">](https://www.happycoders.eu/)
 
 
-## <br>🎓 Java Trainings
+## <br>Java Trainings
 
 Java has evolved massively since Java 8 — but is your team already using the new features? I run hands-on trainings on modern Java: Java 11, 17, 21 & 25, Java Streams, Java Performance, and Java Concurrency with virtual threads and structured concurrency.
 
-[<img src="/img/sven-woltmann-trainer-480x320.jpg" alt="Sven Woltmann – Java trainer" style="width: 240px; max-width: 100%;">](https://www.happycoders.eu/java-trainings/)
+[<img src="/img/sven-woltmann-java-trainer.jpg" alt="Sven Woltmann – Java Trainer" style="width: 640px; max-width: 100%;">](https://www.happycoders.eu/java-trainings/)
 
 * **The latest language features** — records, sealed classes, pattern matching, virtual threads, and when each one actually helps.
 * **Hands-on from the first session** — your developers write and run code themselves, not just watch slides.
@@ -31,7 +31,7 @@ Java has evolved massively since Java 8 — but is your team already using the n
 
 > “Content and presentation almost flawless. What impressed me was how confidently you answered questions along the way.”
 
-👉 [Java Trainings (English)](https://www.happycoders.eu/java-trainings/)
+👉 [Java Trainings (English)](https://www.happycoders.eu/java-trainings/) \
 👉 [Java-Schulungen (Deutsch)](https://www.happycoders.eu/de/java-schulungen/)
 
 
