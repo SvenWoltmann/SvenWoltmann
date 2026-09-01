@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Sven Woltmann — I help Java developers and teams stay on the cutting edge of modern Java.
+I'm Sven Woltmann — a Java expert from day one. I help Java developers and teams modernize their applications and get the most out of modern Java.
 
 I create in-depth content on the latest Java versions and features, and I run hands-on Java trainings that help teams actually use them in production.
 
@@ -11,7 +11,7 @@ You'll find my tutorials on Java, architecture, algorithms, and data structures 
 
 ## <br>Java Trainings
 
-Java has evolved massively since Java 8 — but is your team already using the new features? I run hands-on trainings on modern Java: Java 11, 17, 21 & 25, Java Streams, Java Performance, and Java Concurrency with virtual threads and structured concurrency.
+Java has evolved massively since Java 8 — but is your team already using the new features? I run hands-on trainings on modern Java: Java 17, 21 & 25 (individually or as combined courses), Java Streams, and virtual threads & structured concurrency.
 
 [<img src="/img/sven-woltmann-java-trainer.jpg" alt="Sven Woltmann – Java Trainer" style="width: 640px; max-width: 100%;">](https://www.happycoders.eu/java-trainings/)
 
@@ -41,7 +41,7 @@ Java has evolved massively since Java 8 — but is your team already using the n
 
 [<img src="/img/Java_Versions_PDF_Cheat_Sheet_Mockup_936.png" alt="Java Versions PDF Cheat Sheet Mockup" style="width: 468px; max-width: 100%;">](https://www.happycoders.eu/java-versions/)
 
-* Avoid lengthy research with this **concise overview of all Java versions up to Java 23**.
+* Avoid lengthy research with this **concise overview of all Java versions up to Java 26**.
 * **Discover the innovative features** of each new Java version, summarized on a single page.
 * **Impress your team** with your up-to-date knowledge of the latest Java version.
 
