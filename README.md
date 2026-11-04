@@ -39,9 +39,9 @@ Java has evolved massively since Java 8 — but is your team already using the n
 
 **Stay up-to-date** with the latest Java features with [this PDF Cheat Sheet](https://www.happycoders.eu/java-versions/)!
 
-[<img src="/img/Java_Versions_PDF_Cheat_Sheet_Mockup_936.png" alt="Java Versions PDF Cheat Sheet Mockup" style="width: 468px; max-width: 100%;">](https://www.happycoders.eu/java-versions/)
+[<img src="/img/java-versions-cheat-sheet-mockup.png" alt="Java Versions PDF Cheat Sheet Mockup" style="width: 468px; max-width: 100%;">](https://www.happycoders.eu/java-versions/)
 
-* Avoid lengthy research with this **concise overview of all Java versions up to Java 26**.
+* Avoid lengthy research with this **concise overview of all Java versions up to Java 27**.
 * **Discover the innovative features** of each new Java version, summarized on a single page.
 * **Impress your team** with your up-to-date knowledge of the latest Java version.
 
