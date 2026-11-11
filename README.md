@@ -1,27 +1,27 @@
 ## Hi there 👋
 
-I'm Sven Woltmann — a Java expert from day one. I help Java developers and teams modernize their applications and get the most out of modern Java.
+I’m Sven Woltmann, a Java expert, trainer, speaker, and author with 30 years of Java experience – and an Oracle ACE Associate. With my company HappyCoders GmbH, I help Java teams modernize their applications and get the most out of modern Java.
 
-I create in-depth content on the latest Java versions and features, and I run hands-on Java trainings that help teams actually use them in production.
+I write in-depth articles on the latest Java versions and features, speak at conferences such as JavaLand, betterCode() Java, and Java Forum Stuttgart, and run hands-on Java trainings that help teams actually use the new features in production.
 
-You'll find my tutorials on Java, architecture, algorithms, and data structures in my [videos](https://youtube.com/@HappyCoders), my [newsletter](https://www.happycoders.eu/newsletter/), and my blog [HappyCoders.eu](https://www.happycoders.eu/).
+My blog [HappyCoders.eu](https://www.happycoders.eu/) is one of the most widely read Java blogs in the German-speaking world. You’ll also find my videos on [YouTube](https://www.youtube.com/@HappyCoders), the slides of my talks on [Speaker Deck](https://speakerdeck.com/svenwoltmann), and every new article in my [newsletter](https://www.happycoders.eu/newsletter/).
 
 [<img src="/img/HappyCoders_Logo_2026_blue_black_488x72.png" alt="HappyCoders logo" style="width: 244px; max-width: 100%;">](https://www.happycoders.eu/)
 
 
 ## <br>Java Trainings
 
-Java has evolved massively since Java 8 — but is your team already using the new features? I run hands-on trainings on modern Java: Java 17, 21 & 25 (individually or as combined courses), Java Streams, and virtual threads & structured concurrency.
+Java has evolved massively since Java 8 – but is your team already using the new features? I run hands-on trainings on modern Java: Java 17, 21 & 25 (individually or as combined courses), Java Streams, and virtual threads & structured concurrency.
 
 [<img src="/img/sven-woltmann-java-trainer.jpg" alt="Sven Woltmann – Java Trainer" style="width: 640px; max-width: 100%;">](https://www.happycoders.eu/java-trainings/)
 
-* **The latest language features** — records, sealed classes, pattern matching, virtual threads, and when each one actually helps.
-* **Hands-on from the first session** — your developers write and run code themselves, not just watch slides.
-* **Focused on your stack** — we cover the Java versions and topics your projects really use.
+* **The latest language features** – records, sealed classes, pattern matching, virtual threads, and when each one actually helps.
+* **Hands-on from the first session** – your developers write and run code themselves, not just watch slides.
+* **Focused on your stack** – we cover the Java versions and topics your projects really use.
 
 **What participants say:**
 
-> “A deep, thorough overview of all the relevant Java features since Java 8 — and the chance to try out every one of them yourself.”
+> “A deep, thorough overview of all the relevant Java features since Java 8 – and the chance to try out every one of them yourself.”
 
 > “A complex topic broken down brilliantly (virtual threads).”
 
@@ -47,12 +47,12 @@ Java has evolved massively since Java 8 — but is your team already using the n
 
 👉 [Download the Java Versions PDF](https://www.happycoders.eu/java-versions/)
 
-_(Hier geht's zur deutschen Version &rarr; [Java-Versionen PDF](https://www.happycoders.eu/de/java-versionen/))_
+_(Hier geht’s zur deutschen Version &rarr; [Java-Versionen PDF](https://www.happycoders.eu/de/java-versionen/))_
 
 
 ## <br>The Big O Cheat Sheet
 
-With this [1-page PDF cheat sheet](https://www.happycoders.eu/big-o-cheat-sheet/), you'll always have the **7 most important complexity classes** at a glance.
+With this [1-page PDF cheat sheet](https://www.happycoders.eu/big-o-cheat-sheet/), you’ll always have the **7 most important complexity classes** at a glance.
 
 [<img src="/img/big-o-cheat-sheet-pdf-en-transp_936.png" alt="Big O PDF Cheat Sheet Mockup" style="width: 468px; max-width: 100%;">](https://www.happycoders.eu/big-o-cheat-sheet/)
 
@@ -62,7 +62,7 @@ With this [1-page PDF cheat sheet](https://www.happycoders.eu/big-o-cheat-sheet/
 
 👉 [Download the Big O Cheat Sheet](https://www.happycoders.eu/big-o-cheat-sheet/)
 
-_(Hier geht's zur deutschen Version &rarr; [O-Notation Cheat Sheet](https://www.happycoders.eu/de/o-notation-cheat-sheet/))_
+_(Hier geht’s zur deutschen Version &rarr; [O-Notation Cheat Sheet](https://www.happycoders.eu/de/o-notation-cheat-sheet/))_
 
 
 ## <br>🇩🇪 An alle Java-Programmierer, die durch fundierte Kenntnisse über Datenstrukturen besseren Code schreiben wollen
